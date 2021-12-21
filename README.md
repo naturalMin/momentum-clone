@@ -1,7 +1,7 @@
 # momentum-clone
 #### Google momentum clone Vanila JS practice
 
-* deploy: https://naturalmin.github.io/netflix-clone/
+* deploy: https://naturalmin.github.io/momentum-clone/
 
 ### 사용언어 및 기술
 HTML
