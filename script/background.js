@@ -1,4 +1,4 @@
-const bgImg=[
+const bgImg = [
     "1.jpg",
     "2.jpg",
     "3.jpg",
@@ -11,7 +11,5 @@ const bgImg=[
     "10.jpg"
 ];
 
-const chosenBg=bgImg[Math.floor(Math.random()*bgImg.length)];
-document.body.style.background=`url('./bgimg/${chosenBg}') no-repeat`;
-
-
+const chosenBg = bgImg[Math.floor(Math.random() * bgImg.length)];
+document.body.style.background = `url('./bgimg/${chosenBg}') no-repeat`;
